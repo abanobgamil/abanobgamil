@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- [Email](mailto:abanoubgamil189@gmail.com) <br>- [LinkedIn](https://www.linkedin.com/in/abanoub-gamil-b3327a219/)</p>
+<p align="left">- Email: (mailto:abanoubgamil189@gmail.com)<br>- LinkedIn :https://www.linkedin.com/in/abanoub-gamil-b3327a219/</p>
 
 ###
 
