@@ -2,19 +2,19 @@
 
 ###
 
-<h4 align="center">Mobile Developer</h4>
+<h3 align="center">📱 Mobile Developer</h3>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🧑‍💻 About me</h2>
 
 ###
 
-<p align="left">I’m a Flutter Developer with 2 years of experience building and releasing cross-platform mobile applications. I’ve contributed to more than 3 production apps from development to store release, focusing on clean architecture, Cubit & Riverpod state management, and smooth API integrations. I enjoy building practical solutions and improving the user experience step by step.</p>
+<p align="left">- 👨‍💻 Flutter Developer with 2 years of experience building and releasing cross-platform mobile apps  <br>- 📱 Contributed to **3+ production apps** from development to store release  <br>- 🏗️ Focused on **Clean Architecture**, **Cubit & Riverpod** state management  <br>- 🔗 Skilled at smooth **API integrations** and scalable solutions  <br>- 🎯 Passionate about improving **user experience** step by step  <br>- 🚀 Always learning — currently exploring **Supabase** and real-time features</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">💻 I code with</h2>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="left">Contact with me:</h2>
+<h2 align="left">📬 Contact with me:</h2>
 
 ###
 
