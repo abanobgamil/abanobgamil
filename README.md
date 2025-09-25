@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">📚 "Still learning, always growing — every bug is just a hidden lesson"</h4>
+<h4 align="center">Mobile Developer</h4>
 
 ###
 
